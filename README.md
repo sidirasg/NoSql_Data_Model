@@ -21,3 +21,6 @@ filepaths to two files in the dataset:
 
 `event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv`
+<br>
+<br>
+Relational databases store data in tables that have relations with other tables using foreign keys. A relational database’s approach to data modeling is table-centric. Queries must use table joins to get data from multiple tables that have a relation between them. Apache Cassandra does not have the concept of foreign keys or relational integrity. Apache Cassandra’s data model is based around designing efficient queries; queries that don’t involve multiple tables. Relational databases normalize data to avoid duplication. Apache Cassandra in contrast de-normalizes data by duplicating data in multiple tables for a query-centric data model. If a Cassandra data model cannot fully integrate the complexity of relationships between the different entities for a particular query, client-side joins in application code may be used.
