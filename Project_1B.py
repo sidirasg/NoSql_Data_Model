@@ -342,4 +342,3 @@ except Exception as e:
 
 session.shutdown()
 cluster.shutdown()
-f
