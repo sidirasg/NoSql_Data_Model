@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>df8bafd3-b89f-41cb-bf58-8f65646b406c</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">df8bafd3-b89f-41cb-bf58-8f65646b406c.TABLE:sidiras.music_app_q1</node>
+    <node x="0.0" y="297.0">df8bafd3-b89f-41cb-bf58-8f65646b406c.TABLE:sidiras.question3</node>
+    <node x="202.0" y="0.0">df8bafd3-b89f-41cb-bf58-8f65646b406c.TABLE:sidiras.question2</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="167.5" y="190.5" />
+  <SelectedNodes>
+    <node>df8bafd3-b89f-41cb-bf58-8f65646b406c.TABLE:sidiras.question3</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+  </Categories>
+</Diagram>
+
