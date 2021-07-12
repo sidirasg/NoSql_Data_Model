@@ -33,4 +33,7 @@ Then we can execute Project_1B.py at 3.8 puthon
 
 <br>
 <br>
-![alt text](Apache_cass.png) 
+![Image of Apache_cass]
+(/Apache_cass.png) 
+![Alt text](Apache_cass.jpg) 
+![Alt text](Apache_cass.png?raw=true "Title")
