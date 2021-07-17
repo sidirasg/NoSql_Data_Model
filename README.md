@@ -29,7 +29,9 @@ Relational databases store data in tables that have relations with other tables 
 <br>
 
 Execute at the terminal pip install -r rrequirements.txt. <br>
-Then we can execute Project_1B.py at 3.8 puthon
+Then we can execute Project_1B.py at 3.8 puthon. <br>
+<br>
+There is a notebook Data_Model_Cassandra.ipynb with the same operation 
 
 <br>
 <br>
